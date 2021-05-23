@@ -45,7 +45,7 @@ localhost:3001/api/users
 localhost:3001/api/thoughts
 ```
 
-See the demo below for
+Watch the video below for a quick demo of various API commands.
 
 ![API Demo](https://drive.google.com/file/d/1dsO-zdXX9ZrcnhH0qu1XSvl00H59jYbr/view)
 
